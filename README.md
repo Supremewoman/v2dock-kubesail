@@ -14,6 +14,6 @@ v2dock for Kubesail
 4. **V2RAY_PATH：** ws 路径，不用加 `/`
 
 
-### Kubesail 端口映射
+#### Kubesail 端口映射
 
 请将 9199 端口作为 tcp 端口映射，将 8118 端口作为 HTTPS 映射
